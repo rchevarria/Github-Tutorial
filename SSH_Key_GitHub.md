@@ -1,11 +1,10 @@
 
-# 🔐 GitHub SSH Key Demo — CSCI 135
+# 🔐 GitHub SSH Key Demo
 
 This guide walks through setting up a new SSH key on GitHub.
 More information on GitHub:
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 ---
-
 ## 1. Check for Existing SSH Keys:
 Open your terminal and run:
 
